@@ -1,4 +1,4 @@
-Don't Be a Jerk: The Open Source Software License.
+Common Games - Don't Be a Jerk License: The Open Source Software License.
 Last Update: June 12th, 2019
 
 This software is free and open source.
