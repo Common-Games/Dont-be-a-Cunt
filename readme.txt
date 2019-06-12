@@ -1,5 +1,5 @@
 Don't Be a Jerk: The Open Source Software License.
-Last Update: June 6th, 2019
+Last Update: June 12th, 2019
 
 This software is free and open source.
 
@@ -10,9 +10,10 @@ This software is free and open source.
 
 > We will never take down or start charging for what is available today. Doing so would make us a jerk.
 
-> You may use this code (and by "code" we mean *anything* contained within in this project) for whatever you want. Personal use, Educational use, Corporate use, and all other uses except military are OK! Limiting how you can use something free would make me a jerk! But using our free code for making SkyNet would make you a jerk.
+> You may use this code (and by "code" we mean *anything* contained within in this project) for whatever you want. Personal use, Educational use, Corporate use, and all other uses EXCEPT Illigal or Military are OK! Limiting how you can use something free would make us a jerk, But using our free code for making SkyNet would make *you* a jerk.
 
-> We offer no warranty on anything, ever.  We've tried to ensure that there are no gaping security holes where using this software might automatically send your credit card information to aliens or erase your entire hard drive, but it might happen.  We're sorry. However, we warned you, so you can't sue us. Suing people over free software would make you a jerk.
+> We offer no warranty on anything, ever. We've tried to ensure that there are no gaping security holes where using this software might automatically send your credit card information to aliens or erase your entire hard drive, but it might happen. We're sorry. 
+However, we warned you, so you can't sue us. Suing people over free software would make you a jerk.
 
 > If you find bugs, it would be nice if you let us know so we can fix them. You don't have to, but not doing so would make you a jerk.
 
